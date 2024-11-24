@@ -6,5 +6,5 @@ First download this project
 3. pip install -r requirments.txt
 4. cd OAuthbasedauthentication
 5. python manage.py runserver
-6. http://127.0.0.1:8000/ this url(show a page login and registration)
-7. http://127.0.0.1:8000/accounts(direct google accounts login to  this url) 
+6. http://127.0.0.1:8000/ (show a page login and registration)
+7. http://127.0.0.1:8000/accounts/ (direct google accounts login to  this url) 
